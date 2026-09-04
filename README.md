@@ -116,3 +116,19 @@ employee-attrition-prediction/
 │
 ├── Employee_Attrition_Prediction_Logistic_Regression.ipynb
 └── README.md
+## 📊 Project Visualizations
+
+### Class Distribution
+![Class Distribution](class_distribution.png)
+
+### Exploratory Data Analysis
+![EDA Analysis](eda_analysis.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Feature Coefficients
+![Feature Coefficients](feature_coefficients.png)
+
+### Model Evaluation
+![Model Metrics](model_metrics.png)
