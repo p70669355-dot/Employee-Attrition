@@ -132,3 +132,22 @@ employee-attrition-prediction/
 
 ### Model Evaluation
 ![Model Metrics](model_metrics.png)
+## 📈 Model Results
+
+The Logistic Regression model achieved the following performance on the test dataset:
+
+| Metric | Score |
+|---|---:|
+| Accuracy | 66.50% |
+| Precision | 66.34% |
+| Recall | 67.00% |
+| F1-Score | 66.67% |
+| ROC-AUC | 73.91% |
+
+### 📌 Result Interpretation
+
+- **Accuracy (66.50%)** – The model correctly classified about 66.5% of test cases.
+- **Precision (66.34%)** – About 66.3% of employees predicted as attrition-risk were actually in the positive class.
+- **Recall (67.00%)** – The model identified about 67% of the actual positive cases.
+- **F1-Score (66.67%)** – Shows a balance between precision and recall.
+- **ROC-AUC (73.91%)** – Indicates that the model has a reasonable ability to distinguish between the two classes.
